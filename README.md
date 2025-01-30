@@ -2,7 +2,7 @@
 
 **`Estudante de TI`**
 
-Me chamo Safira Del Rio, tenho 21 anos e sou natural do Recife, PE. Atualmente, estou cursando o 4º período de Análise e Desenvolvimento de Sistemas na FICR. Aqui, compartilho um pouco de tudo que venho explorando na área da tecnologia, como programação, banco de dados, desenvolvimento web, e muito mais."
+Me chamo Safira Del Rio, tenho 21 anos e sou natural do Recife, PE. Atualmente, estou cursando o 4º período de Análise e Desenvolvimento de Sistemas na FICR. Aqui, compartilho um pouco de tudo que venho explorando na área da tecnologia, como programação, banco de dados, desenvolvimento web, e muito mais.
 
 ---
 
