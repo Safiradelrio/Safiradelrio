@@ -5,9 +5,7 @@
 Me chamo Safira Del Rio, tenho 21 anos e sou natural do Recife, PE. Atualmente, estou cursando o 4º período de Análise e Desenvolvimento de Sistemas na FICR. Aqui, compartilho um pouco de tudo que venho explorando na área da tecnologia, como programação, banco de dados, desenvolvimento web, e muito mais."
 
 
-
-
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+ <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
